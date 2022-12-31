@@ -60,7 +60,7 @@ export class News extends Component {
     return (
       <div className="container my-3">
         <div className="row">
-          <h1 className="text-center m-auto my-4 text-uppercase" id="Heading">
+          <h1 className="text-center m-auto my-5 text-uppercase" id="Heading">
             Top Headlines - {this.props.category}
           </h1>
           {this.state.loading && <Spinner />}
