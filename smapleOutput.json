@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Avaneesh Mishra",
+            "title": "Rishabh Pant accident: Cricketer hospitalised after accident near Roorkee, reportedly out of danger",
+            "description": "Rishabh Pant was on his way to his hometown Roorkee from Delhi when he reportedly lost control of his car and hit the divider. The car immediately caught fire and was charred within minutes, police sources said.",
+            "url": "https://indianexpress.com/article/sports/cricket/rishabh-pant-accident-cricketer-severely-injured-8351757/",
+            "urlToImage": "https://images.indianexpress.com/2022/12/Untitled-design-66-1.jpg",
+            "publishedAt": "2022-12-30T05:00:09+00:00",
+            "content": "Wicketkeeper-batsman Rishabh Pant met with an accident near Uttarakhands Roorkee early on Saturday morning and suffered injuries after his car crashed into road dividers and later caught fire. Pant, … [+3637 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Azeem Rafiq: Hate crime inquiry after man defecates in cricketer's garden",
+            "description": "Ex-Yorkshire bowler Azeem Rafiq says he has been abused since highlighting racism at his old club.",
+            "url": "http://www.bbc.co.uk/news/uk-england-south-yorkshire-64116986",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5C39/production/_127990632_rafiq.jpg",
+            "publishedAt": "2022-12-30T01:37:24.0000625Z",
+            "content": "A hate crime investigation has been started by police after a man defecated in the garden of former Yorkshire cricketer Azeem Rafiq.\r\nEarlier this month, the ex-bowler told MPs he had become a target… [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
