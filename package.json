@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://Manish0045.github.io/newsprime24",
+=======
+  "homepage":"https://Manish0045.github.io/newsprime24/",
+>>>>>>> 9af8c5a6af10742b2126e9a6f645f0b89446b2be
   "name": "newsprime24",
   "version": "0.1.0",
   "private": true,
@@ -18,10 +22,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
